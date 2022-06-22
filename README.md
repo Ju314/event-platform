@@ -1,4 +1,5 @@
-# event-platform
+# Ignite Lab
+
 Platform with ReactJS, Tailwind, Grapghl, TypeScript, HTML, CSS.
 <br />
 
