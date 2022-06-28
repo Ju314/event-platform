@@ -8,3 +8,5 @@ Platform with ReactJS, Tailwind, Grapghl, TypeScript, HTML, CSS.
   <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+# Live Version: <a href="https://event-platform-ten-silk.vercel.app/">Link</a>
